@@ -6,4 +6,6 @@ linear output) trained by mini-batch GD (MBGD).
 Target function:
 <img width="359" height="78" alt="image" src="https://github.com/user-attachments/assets/84ba202d-7d23-4537-8333-f6365cbea11f" />
 
-By this project code, you can understand the role of multi-layer to extract high frequency information. 
+By this project code, you can understand the role of multi-layer to extract high frequency information. Please strictly follow under answer line to udnerstand the operation of entire code.
+
+
